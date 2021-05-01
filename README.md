@@ -2,9 +2,14 @@
 
 ## Experience
 
-#### Head of Platform Engineering
+#### Sr. Manager - Peakon Platform & Security
+**Workday**
+*April 2021 - Present*
+> * Running integration program for Platform Engineering & Security
+
+#### Director of Platform & Security
 **Peakon**
-*May 2018 - Present*
+*May 2018 - April 2021*
 > * Responsible for hiring and onboarding 10+ engineers
 > * Owner of the entire roadmap for platform related projects and features
 > * Technical lead in the areas of Delivery, DevOps, Infrastructure, and Security
