@@ -2,20 +2,30 @@
 
 ## Experience
 
-#### Sr. Manager - Peakon Platform & Security
+#### Senior Manager - Peakon Core Services
 **Workday**
 *April 2021 - Present*
-> * Running integration program for Platform Engineering & Security
+> * Successfully leading a post-acquisition, integration team
+> * Achieving 100% employee retention through 1 year post-acquisition
+> * Leading a multidisciplinary team of Software Developers, DevOps / Infrastructure, QA, and Security engineers
+> * Doubling the team size and leading recruitment efforts
+> * Creating and owning a 2 year product roadmap for the organization and managing OKRs to keep the projects on track
+> * Receiving multiple 0 finding pentest results (apps, network, platform)
+> * Responsible for the teams delivering the product with highest level of uptime in the company
+> * Driving improvements with cumbersome company-wide processes
 
-#### Director of Platform & Security
+#### Director of Engineering, Platform & Security
 **Peakon**
 *May 2018 - April 2021*
-> * Responsible for hiring and onboarding 10+ engineers
-> * Owner of the entire roadmap for platform related projects and features
-> * Technical lead in the areas of Delivery, DevOps, Infrastructure, and Security
-> * Collaborating with other members of the Engineering Leadership team to define organization values and processes
-> * Responsible for the platform and security aspects of ISO 27001 certification
-> * Improving employee engagement and positive work culture
+ > * Leading a multidisciplinary team of DevOps / Infrastructure, QA, and Security engineers
+ > * Recruiting and onboarding 15+ engineers
+ > * Creating and owning a 2 year product roadmap for the organization and managing OKRs to achieve the 2 year roadmap
+ > * Ownership of 90% of the non-headcount budget for Engineering
+ > * Mentoring senior engineers and coaching engineering managers
+ > * Leading multiple initiatives to improve our commitment to core values
+ > * Improving employee engagement and a positive work culture
+ > * Playing a major role in obtaining ISO 27001 and SOC2 certifications
+ > * Key member of the Due Diligence team pre-acquisition
 
 #### Senior Infrastructure Engineer
 **Dubsmash**
@@ -29,7 +39,7 @@
 **Wimdu**
 *June 2015 - February 2016*
 > * Managing 2 individual teams (DevOps and Development)
-> * Implementing a roadmap to improve developer productivity 
+> * Implementing a roadmap to improve developer productivity
 > * Migrating the entire platform to AWS
 
 #### Manager: System Engineering
@@ -38,7 +48,7 @@
 > * Line manager to a team of 10+ System Engineers
 > * Mentoring and coaching to help engineers to do their best
 > * Migrating from multiple datacenters to a multi-region AWS setup
-> * Simplifying process to reduce cost and increase efficiency 
+> * Simplifying process to reduce cost and increase efficiency
 > * Automating configuration of the monitoring and metrics infrastructure
 
 #### Senior System Administrator
@@ -66,3 +76,4 @@
 | :link: Linkedin | [michaelrclay](https://www.linkedin.com/in/michaelrclay/)|
 |:e-mail: Email | [michaelrclay@gmail.com](mailto:michaelrclay@gmail.com)|
 |:octocat: Github | [deppy](https://github.com/deppy/)|
+|:computer: GitLab | [deppy](https://gitlab.com/deppy)|
