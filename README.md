@@ -1,10 +1,14 @@
 # Michael C
 
 ## Experience
+#### Head of Securitiy
+**Normative**
+*July 2023 - Present*
+> * Placeholder as I get settled in
 
 #### Senior Manager - Peakon Core Services
 **Workday**
-*April 2021 - Present*
+*April 2021 - July 2022*
 > * Successfully leading a post-acquisition, integration team
 > * Achieving 100% employee retention through 1 year post-acquisition
 > * Leading a multidisciplinary team of Software Developers, DevOps / Infrastructure, QA, and Security engineers
